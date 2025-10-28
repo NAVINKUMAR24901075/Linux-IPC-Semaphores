@@ -130,9 +130,9 @@ $ ./sem.o
 
 $ ipcs
 
+![Alt text](<../../Screenshot at 2025-10-28 11-08-38.png>)
 
-![Alt text](../../ipcs.png)
-
+![Alt text](image-1.png)
 
 # RESULT:
 The program is executed successfully.
