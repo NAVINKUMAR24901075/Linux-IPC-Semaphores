@@ -130,9 +130,8 @@ $ ./sem.o
 
 $ ipcs
 
-![Alt text](<../../Screenshot at 2025-10-28 11-08-38.png>)
+<img width="785" height="689" alt="image" src="https://github.com/user-attachments/assets/af7e9abf-7abf-4b48-a980-16f9c85e317e" />
 
-![Alt text](image-1.png)
 
 # RESULT:
 The program is executed successfully.
